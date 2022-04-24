@@ -36,6 +36,7 @@ module.exports = {
     'react-hooks/exhaustive-deps': 'warn',
     'react/jsx-props-no-spreading': 'off',
     'default-param-last': 'off',
+    'prefer-object-spread': 'off',
   },
 
   settings: {
